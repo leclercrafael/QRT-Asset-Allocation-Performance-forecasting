@@ -1,1 +1,24 @@
+# Fichiers Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environnements virtuels
+.env/
+venv/
+.venv/
+
+# Fichiers de logs
+*.log
+
+# Dossiers temporaires
+tmp/
+temp/
+.cache/
+
+# Config locale
+*.local
+*.DS_Store
+
+
 QRT_venv/
