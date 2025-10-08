@@ -23,3 +23,5 @@ temp/
 
 QRT_venv/
 Autogluon_TS*/
+catboost*/
+test/
